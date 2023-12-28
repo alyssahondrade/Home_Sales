@@ -3,18 +3,19 @@ Module 22 Challenge  - UWA/edX Data Analytics Bootcamp
 
 Github repository at: [https://github.com/alyssahondrade/Home_Sales.git](https://github.com/alyssahondrade/Home_Sales.git)
 
+
 ## Table of Contents
-1. [Introduction]()
-    1. [Goal]()
-    2. [Repository Structure]()
-    3. [Dataset]()
-2. [Approach]()
+1. [Introduction](https://github.com/alyssahondrade/Home_Sales#introduction)
+    1. [Goal](https://github.com/alyssahondrade/Home_Sales#goal)
+    2. [Repository Structure](https://github.com/alyssahondrade/Home_Sales#repository-structure)
+    3. [Dataset](https://github.com/alyssahondrade/Home_Sales#dataset)
+2. [Approach](https://github.com/alyssahondrade/Home_Sales#approach)
 
 
 ## Introduction
 
 ### Goal
-
+The goal is use SparkSQL to determine key metrics about home sales data.
 
 ### Repository Structure
 The root directory contains
